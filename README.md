@@ -4,7 +4,7 @@ We want you to predict whether a customer is interested in a caravan insurance p
 Target Variable is V86.
 You need to use train data for building the model and then use that model to predict outcome for given test data. Test dataset does not have a response column; you need to predict those values and submit it in a csv format. We expect outcomes to be either 0 or 1.
 
-##For columns describrition chech out data dictionary.txt
+##For columns describrition check out data dictionary.txt
 
 for more Information  kindly find the problem statement.pdf
 
